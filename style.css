@@ -96,7 +96,7 @@
 
 body {
   position: relative;
-  background-image: url("10.jpg");
+  background-image: url("/10.jpg");
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 850px;
   width: 100px; /* You must set a specified height */
